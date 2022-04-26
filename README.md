@@ -14,7 +14,7 @@ If you want you can visit my [portfolio](https://al-alec.github.io/)
 
 <br>
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="160em" align="right">
 
 - 🌎 I'm from Togo / Lomé
 - 👨🏻‍💻 Love programming
@@ -44,7 +44,7 @@ If you want you can visit my [portfolio](https://al-alec.github.io/)
 
 ## 📊 Take a look in my stats
 
-<a href="https://github.com/b4dcat404" >
+<a href="https://github.com/al-alec" >
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=al-alec&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-alec&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
