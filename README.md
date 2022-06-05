@@ -52,6 +52,11 @@ If you want you can visit my [portfolio](https://al-alec.github.io/)
 <br>
 <br>
 
+<a href="https://app.daily.dev/228alec"><img src="https://api.daily.dev/devcards/768d702c712549529de7b571aaabfba9.png?r=mig" width="400" alt="Alex Yehadji's Dev Card"/></a>
+
+<br>
+<br>
+
 ---
 ### 🤝🏻 &nbsp;Connect with Me
 
