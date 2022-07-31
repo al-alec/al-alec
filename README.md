@@ -8,7 +8,7 @@ I am 22 years old, I live and work in Togo.
 I've been doing IT since I was 18, I've been creating websites for 3 years, now I'm actively studying data analysis and visualization. 
 
 
-If you want you can visit my [portfolio](https://al-alec.github.io/)
+If you want you can visit my [portfolio](https://dev.alexisyehadji.com)
 
 ## 👨🏻‍💻 About me
 
