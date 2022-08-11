@@ -27,20 +27,20 @@ If you want you can visit my [portfolio](https://dev.alexisyehadji.com)
 
 ## 💻 Tech stack
 <div style="display: inline-block">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="32px">
-<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/php/php-plain-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="32px">
- <img src="https://github.com/b4dcat404/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px">
+<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/php/php-plain.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px">
+ <img src="https://github.com/b4dcat404/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50px">
 </div>
 
 <br>
