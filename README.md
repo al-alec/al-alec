@@ -38,6 +38,8 @@ If you want you can visit my [portfolio](https://dev.alexisyehadji.com)
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/typescript/typescript-original.svg" width="32px">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="32px">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="32px">
 </div>
 
 <br>
