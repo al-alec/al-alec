@@ -4,7 +4,7 @@
 
 I'm a full-stack developer!
 
-I am 22 years old, I live and work in Togo. 
+I am 23 years old, I live and work in Togo. 
 I've been doing IT since I was 18, I've been creating websites for 3 years, now I'm actively studying data analysis and visualization. 
 
 
