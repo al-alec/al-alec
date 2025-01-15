@@ -1,72 +1,60 @@
-<img style="border-radius:50%" src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="100%" height="500vh"/>
+<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="100%" height="auto" style="border-radius:10px;"/>
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=al-alec&style=flat-square&color=blueviolet">
 
-I'm a full-stack developer!
+Hi there! I'm Alexis Yehadji, a passionate **Full-Stack Developer**. 🚀  
+I live in **Lomé, Togo**, and I’ve been working in IT since I was 18 years old. My current focus is on **Data Analysis** and **Visualization**.
 
-I am 23 years old, I live and work in Togo. 
-I've been doing IT since I was 18, I've been creating websites for 3 years, now I'm actively studying data analysis and visualization. 
+📌 **[Visit My Portfolio](https://dev.alexisyehadji.com)**
 
+---
 
-If you want you can visit my [portfolio](https://dev.alexisyehadji.com)
-
-## 👨🏻‍💻 About me
-
-<br>
+## 👨🏻‍💻 About Me
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="160em" align="right">
 
-- 🌎 I'm from Togo / Lomé
-- 👨🏻‍💻 Love programming
-- 🧠 I like to work on challenging projects
-- 💭 I dream of developing the IT sector in my region
-- 📧 Reach me via yehadjialexis@gmail.com
-
-<br>
-<br>
-
-## 💻 Tech stack
-<div style="display: inline-block">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="100px">
-<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/php/php-plain.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/javascript/javascript-original.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/typescript/typescript-original.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="100px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="100px">
- <img src="https://github.com/b4dcat404/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="100px">
-</div>
-
-<br>
-
-## 📊 Take a look in my stats
-
-<a href="https://github.com/al-alec" >
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=al-alec&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-alec&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff&count_private=true" />
-</a>
-
-<br>
-<br>
-
-<a href="https://app.daily.dev/228alec"><img src="https://api.daily.dev/devcards/768d702c712549529de7b571aaabfba9.png?r=mig" width="400" alt="Alex Yehadji's Dev Card"/></a>
-
-<br>
-<br>
+- 🌎 I'm from Togo / Lomé  
+- 👨🏻‍💻 Love programming and learning new technologies  
+- 🧠 Passionate about challenging projects  
+- 💭 Dreaming of advancing the IT sector in my region  
+- 📧 Reach me at **yehadjialexis@gmail.com**
 
 ---
-### 🤝🏻 &nbsp;Connect with Me
 
+## 💻 Tech Stack
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="80px"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<a href="https://github.com/al-alec" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=al-alec&show_icons=true&theme=dracula&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-alec&layout=compact&theme=dracula&count_private=true" />
+</a>
+
+---
+
+## 🤝🏻 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/alexis-honore-yehadji"><img src="https://img.shields.io/badge/-Alexis%20Yehadji-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yehadjialexis@gmail.com"><img src="https://img.shields.io/badge/-yehadjialexis@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/alexis-honore-yehadji">
+    <img src="https://img.shields.io/badge/-Alexis%20Yehadji-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yehadjialexis@gmail.com">
+    <img src="https://img.shields.io/badge/-yehadjialexis@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
-
------
-Credits: [Alexis Yehadji](https://github.com/al-alec)
