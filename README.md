@@ -4,7 +4,7 @@
 
 ## 🚀 Who am I?
 
-I'm **Alexis Yehadji**, a passionate **Full-Stack Developer**, entrepreneur, and AI enthusiast based in **Lomé, Togo**. With over five years of experience in the tech world, I am on a mission to innovate and make an impact.
+I'm **Alexis Yehadji**, a passionate **Full-Stack Developer**, entrepreneur, and AI enthusiast based in **Lomé, Togo**. With over five years of experience in the tech world, I am on a mission to innovate and make an impact. 
 
 🌍 **Vision**: To develop and elevate the IT sector in Togo and beyond.
 
@@ -51,11 +51,11 @@ Check out some of my latest work:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="80px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="80px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="80px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="80px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="80px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="80px" style="margin: 10px;"/>
 </div>
 
 ---
