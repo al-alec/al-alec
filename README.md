@@ -1,71 +1,99 @@
-<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="100%" style="border-radius:10px;"/>
+<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" width="100%" style="border-radius:10px;"/>
 
 # 🌟 Hello! Welcome to my Profile <img align="right" src="https://komarev.com/ghpvc/?username=al-alec&style=flat-square&color=blueviolet">
 
 ## 🚀 Who am I?
 
-I'm **Alexis Yehadji**, a passionate **Full-Stack Developer**, entrepreneur, and AI enthusiast based in **Lomé, Togo**. With over five years of experience in the tech world, I am on a mission to innovate and make an impact. 
+I'm **Alexis Yehadji**, a passionate **Full-Stack Developer**, entrepreneur, and **AI enthusiast** based in **Lomé, Togo**.  
+With over five years of experience, I aim to **build scalable, meaningful software** that bridges innovation and impact.  
 
-🌍 **Vision**: To develop and elevate the IT sector in Togo and beyond.
-
-📈 **Current Focus**: Leveraging my skills in **web development** and **data analysis** to build scalable solutions, while exploring cutting-edge technologies like **AI** and **machine learning**.
-
+🌍 **Vision**: Empower and elevate the African tech ecosystem.  
+📈 **Focus**: Web development, data analysis, and applied AI.  
 💡 **Philosophy**: Solve real problems with elegant solutions.
 
 ---
 
 ## 👨🏻‍💻 What I Do
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="160em" align="right" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/itsherifa/itsherifa/main/assets/coding.gif" width="160" align="right" />
 
-- **Web Development**: Crafting clean, scalable, and user-friendly applications.
-- **Data Enthusiast**: Diving into analytics and visualization to turn raw data into actionable insights.
-- **Project Management**: Organizing complex projects with a vision-driven mindset.
-- **Community Advocate**: Committed to mentoring and building a strong tech community in my region.
+- **Web Development** – Creating clean, performant, and maintainable apps.  
+- **Data & AI** – Transforming raw data into actionable insights.  
+- **DevOps & Automation** – Streamlining deployment and CI/CD pipelines.  
+- **Community Building** – Mentoring, sharing, and contributing to open source.
 
-🔧 **Technical Expertise**:
-- Front-end: Vue.js, Nuxt.js, TailwindCSS, JavaScript, TypeScript
-- Back-end: PHP (Laravel), Node.js, MySQL, MongoDB
-- DevOps: Docker, Git, Continuous Deployment
+🔧 **Main Expertise**
+> Vue.js · Nuxt.js · Laravel · Node.js · Docker · MySQL · MongoDB · Redis
 
-📧 **Contact Me**: Reach me at yehadjialexis@gmail.com
+📧 **Reach me**: [yehadjialexis@gmail.com](mailto:yehadjialexis@gmail.com)
 
 ---
 
 ## 💼 Portfolio Highlights
 
-Check out some of my latest work:
-
-- **[My Portfolio Website](https://dev.alexisyehadji.com)**: Explore my projects, experiences, and achievements.
-- **[GitHub Projects](https://github.com/al-alec)**: Dive into my code, contributions, and open-source collaborations.
+- **[Portfolio Website](https://dev.alexisyehadji.com)** – Discover my work, journey, and projects.  
+- **[GitHub Projects](https://github.com/al-alec)** – Explore my open-source code.
 
 ---
 
 ## 💻 My Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="80px" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="80px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="80px" style="margin: 10px;"/>
-</div>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" width="55"/>
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" width="55"/>
+  </a>
+  <a href="https://nuxt.com/">
+    <img src="https://skillicons.dev/icons?i=nuxt" width="55"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" width="55"/>
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" width="55"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" width="55"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="55"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/al-alec">
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=al-alec&show_icons=true&theme=dracula&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-alec&layout=compact&theme=dracula&count_private=true" />
-</a>
+</p>
 
 ---
 
@@ -78,9 +106,11 @@ Check out some of my latest work:
   <a href="mailto:yehadjialexis@gmail.com">
     <img src="https://img.shields.io/badge/-yehadjialexis@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/al-alec">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-> **Credits**: This profile was crafted by Alexis Yehadji with ❤️ and professionalism.
-
+> ✨ *Crafted by Alexis Yehadji with ❤️ and curiosity for technology.*
