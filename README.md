@@ -63,7 +63,7 @@ Lightweight and NumPy-based, designed for binary and multi-label masks.
 
 ### Frontend and UI/UX
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,vuetify,figma,vscode" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,vuetify" height="55"/>
 </p>
 
 ### Data Science and Machine Learning Tools
