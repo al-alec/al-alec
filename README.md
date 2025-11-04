@@ -4,91 +4,72 @@
 
 ## 🚀 Who am I?
 
-I'm **Alexis Yehadji**, a passionate **Full-Stack Developer**, entrepreneur, and **AI enthusiast** based in **Lomé, Togo**.  
-With over five years of experience, I aim to **build scalable, meaningful software** that bridges innovation and impact.  
+I'm **Alexis Yehadji**, a **Full-Stack Developer** and **AI enthusiast** passionate about crafting elegant, scalable, and data-driven systems.  
+Currently, I’m conducting **deep learning research at Institut Pasteur (Paris)**, focusing on biomedical image analysis and computer vision.
 
-🌍 **Vision**: Empower and elevate the African tech ecosystem.  
-📈 **Focus**: Web development, data analysis, and applied AI.  
-💡 **Philosophy**: Solve real problems with elegant solutions.
-
----
-
-## 👨🏻‍💻 What I Do
-
-<img src="https://raw.githubusercontent.com/itsherifa/itsherifa/main/assets/coding.gif" width="160" align="right" />
-
-- **Web Development** – Creating clean, performant, and maintainable apps.  
-- **Data & AI** – Transforming raw data into actionable insights.  
-- **DevOps & Automation** – Streamlining deployment and CI/CD pipelines.  
-- **Community Building** – Mentoring, sharing, and contributing to open source.
-
-🔧 **Main Expertise**
-> Vue.js · Nuxt.js · Laravel · Node.js · Docker · MySQL · MongoDB · Redis
-
-📧 **Reach me**: [yehadjialexis@gmail.com](mailto:yehadjialexis@gmail.com)
+🎯 **Mission:** Build intelligent systems that bridge software engineering and applied AI.  
+💡 **Philosophy:** Think precisely. Code cleanly. Ship impact.  
+🌍 **From:** Lomé (Togo) → Paris (France)
 
 ---
 
-## 💼 Portfolio Highlights
+## 👨🏻‍💻 Areas of Expertise
 
-- **[Portfolio Website](https://dev.alexisyehadji.com)** – Discover my work, journey, and projects.  
-- **[GitHub Projects](https://github.com/al-alec)** – Explore my open-source code.
+- **Web Engineering** — Architecture, APIs, and cloud-native backend systems.  
+- **Data Science & Machine Learning** — Designing end-to-end data pipelines and deep learning models.  
+- **MLOps & DevOps** — Automating training, deployment, and scalable serving with Docker/K8s.  
+- **Open Source Development** — Building reusable, well-documented Python and JS libraries.
 
 ---
 
-## 💻 My Tech Stack
+## 🧩 Highlighted Open-Source Projects
 
+### 🟣 [Wav2Vec-BERT Audio Sentiment Analyzer](https://github.com/al-alec/audio-sentiment-analyzer)
+End-to-end pipeline for **audio emotion recognition** using **Wav2Vec 2.0** for transcription and **BERT** for sentiment detection.  
+Includes **Gradio interface**, **API endpoints**, and real-time inference demo.
+
+> *Stack:* PyTorch · Transformers · Gradio · FastAPI · NumPy
+
+---
+
+### 🟢 [ioumatch](https://pypi.org/project/ioumatch/)
+Python package published on **PyPI** for **computing IoU-based matching metrics** in segmentation tasks.  
+Designed for instance-level evaluation, supports **binary and multi-label masks**, lightweight and NumPy-based.
+
+> *Stack:* NumPy · OpenCV · Scikit-Image · Python Packaging
+
+---
+
+## My Technology Stack
+
+### Languages & Frameworks
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" width="55"/>
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" width="55"/>
-  </a>
-  <a href="https://nuxt.com/">
-    <img src="https://skillicons.dev/icons?i=nuxt" width="55"/>
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" width="55"/>
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" width="55"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://skillicons.dev/icons?i=redis" width="55"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="55"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,vue,nuxt,fastapi,pytorch" height="55"/>
+</p>
+
+### Databases & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" height="55"/>
+</p>
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,githubactions" height="55"/>
+</p>
+
+### Frontend & UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,vuetify,figma,vscode" height="55"/>
+</p>
+
+### Data Science & ML Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,jupyter,opencv" height="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=al-alec&show_icons=true&theme=dracula&count_private=true" />
@@ -97,7 +78,7 @@ With over five years of experience, I aim to **build scalable, meaningful softwa
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/alexis-honore-yehadji">
@@ -109,8 +90,11 @@ With over five years of experience, I aim to **build scalable, meaningful softwa
   <a href="https://github.com/al-alec">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
+  <a href="https://pypi.org/user/al-alec/">
+    <img src="https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=pypi&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-> ✨ *Crafted by Alexis Yehadji with ❤️ and curiosity for technology.*
+> ✨ *Open source believer, research-driven developer, and relentless learner.*
